@@ -1,0 +1,35 @@
+/* body {
+
+} */
+
+.col-sm-8 {
+    overflow-wrap: break-word;
+    display: flex   ;
+    border: 1px solid black;
+    padding-left: 0px;
+}
+
+.row {
+    overflow-wrap: break-word;
+    display: flex;
+    border: 1px solid red;
+}
+
+.col-sm-6 {
+    overflow-wrap: break-word;
+    border: 1px solid black;    
+}
+
+.col-sm-3 {
+    overflow-wrap: break-word;
+}
+
+.col-sm-6 {
+    overflow-wrap: break-word;
+}
+
+#col {
+    overflow-wrap: break-word;
+    margin-left: 0.075%;
+    border: 1px solid black;
+}
